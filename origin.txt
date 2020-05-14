@@ -1,0 +1,172 @@
+Uri: https://urfurniture.netlify.app/
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://urfurniture.netlify.app/src/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\src\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://urfurniture.netlify.app/src/css/main.css
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\src\css\main.css
+Content Type: text/css
+
+Uri: https://urfurniture.netlify.app/bahan/favicon.png
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\favicon.png
+Content Type: image/png
+
+Uri: https://urfurniture.netlify.app/index.html
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\index.html
+Content Type: text/html
+
+Uri: https://urfurniture.netlify.app/catalogue.html
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\catalogue.html
+Content Type: text/html
+
+Uri: https://urfurniture.netlify.app/timeline.html
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\timeline.html
+Content Type: text/html
+
+Uri: https://urfurniture.netlify.app/gallery.html
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\gallery.html
+Content Type: text/html
+
+Uri: https://urfurniture.netlify.app/500.html
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\500.html
+Content Type: text/html
+
+Uri: https://urfurniture.netlify.app/404.html
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\404.html
+Content Type: text/html
+
+Uri: https://urfurniture.netlify.app/login.html
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\login.html
+Content Type: text/html
+
+Uri: https://urfurniture.netlify.app/register.html
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\register.html
+Content Type: text/html
+
+Uri: https://urfurniture.netlify.app/profile.html
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\profile.html
+Content Type: text/html
+
+Uri: https://urfurniture.netlify.app/bahan/square.png
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\square.png
+Content Type: image/png
+
+Uri: https://urfurniture.netlify.app/bahan/banner/banner-1-1200x700.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\banner\banner-1-1200x700.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/banner/banner-2-1200x700.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\banner\banner-2-1200x700.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/product/chair-2-400x400.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\product\chair-2-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/product/tables-2-400x400.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\product\tables-2-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/product/sofa-1-400x400.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\product\sofa-1-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/product/wallself-400x400.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\product\wallself-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/gallery/gallery-1-400x600.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\gallery\gallery-1-400x600.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/gallery/gallery-3-600x400.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\gallery\gallery-3-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/gallery/gallery-1-600x400.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\gallery\gallery-1-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/gallery/gallery-3-400x600.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\gallery\gallery-3-400x600.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/gallery/gallery-2-400x600.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\gallery\gallery-2-400x600.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/gallery/gallery-2-600x400.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\gallery\gallery-2-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/testi-1.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\testi-1.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/testi-2.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\testi-2.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/testi-3.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\testi-3.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/quotation.png
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\quotation.png
+Content Type: image/png
+
+Uri: https://urfurniture.netlify.app/src/js/jquery-3.3.1.min.js
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\src\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://urfurniture.netlify.app/src/js/bootstrap.bundle.min.js
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\src\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://urfurniture.netlify.app/src/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\src\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://urfurniture.netlify.app/src/js/main.js
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\src\js\main.js
+Content Type: application/javascript
+
+Uri: https://urfurniture.netlify.app/bahan/product/bookself-400x400.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\product\bookself-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/product/chair-1-400x400.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\product\chair-1-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/product/tables-1-400x400.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\product\tables-1-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/product/tables-3-400x400.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\product\tables-3-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/timeline-1-800x500.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\timeline-1-800x500.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/timeline-2-800x500.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\timeline-2-800x500.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/500.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\500.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/bahan/404.jpg
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\bahan\404.jpg
+Content Type: image/jpeg
+
+Uri: https://urfurniture.netlify.app/invoice.html
+File Name: c:\Downloaded Web Sites\urfurniture.netlify.app\invoice.html
+Content Type: text/html
+

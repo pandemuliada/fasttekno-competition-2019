@@ -1,0 +1,320 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>UrProfile</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="src\css\bootstrap.min.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      media="screen"
+      href="src\css\main.css"
+    />
+    <link rel="shortcut icon" href="bahan\favicon.png" type="image/x-icon" />
+  </head>
+
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light sticky-top">
+      <a href="index.html" class="navbar-brand"
+        ><span class="font-weight-bold text-primary h4">Ur</span>Furniture</a
+      >
+
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbar-content"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div id="navbar-content" class="collapse navbar-collapse">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a href="index.html" class="nav-link" style="color: #5cdbfe;"
+              >Home</a
+            >
+          </li>
+          <li class="nav-item">
+            <a href="catalogue.html" class="nav-link">Catalogue</a>
+          </li>
+          <li class="nav-item">
+            <a href="timeline.html" class="nav-link">Timeline</a>
+          </li>
+          <li class="nav-item">
+            <a href="gallery.html" class="nav-link">Gallery</a>
+          </li>
+          <li class="nav-item">
+            <a href="500.html" class="nav-link">About</a>
+          </li>
+          <li class="nav-item">
+            <a href="404.html" class="nav-link">Contact</a>
+          </li>
+          <li class="nav-item">
+            <a href="login.html" class="btn btn-primary mb-2 mb-md-0">Login</a>
+          </li>
+          <li class="nav-item">
+            <a href="register.html" class="btn btn-outline-primary">Register</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <section class="profile mt-5">
+      <div class="container">
+        <div class="row d-flex">
+          <div class="col-md-3">
+            <div
+              class="profile-box text-center p-4"
+              style="box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);"
+            >
+              <div class="bg-primary w-100 h-50"></div>
+              <img
+                src="bahan\testi-2.jpg"
+                width="80px;"
+                style="border-radius: 50%;"
+                alt=""
+              />
+              <h6 class="mt-2">Jenny Wong</h6>
+              <p class="mb-0 text-secondary">Jalan A Yani Selatan No 18</p>
+              <p class="text-secondary">Last Transaction : Yesterday</p>
+            </div>
+            <div
+              class="transaction-history-box d-block mt-4 p-4"
+              style="box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);"
+            >
+              <h4 class="font-weight-light mb-4">
+                <span class="text-primary font-weight-normal">Transaction</span>
+                History
+              </h4>
+              <table class="table table-md mb-0">
+                <tr>
+                  <td>7 Maret 2018</td>
+                  <td>
+                    <h5 class="text-secondary">$500</h5>
+                  </td>
+                </tr>
+                <tr>
+                  <td>3 Maret 2018</td>
+                  <td>
+                    <h5 class="text-secondary">$400</h5>
+                  </td>
+                </tr>
+                <tr>
+                  <td>1 Maret 2018</td>
+                  <td>
+                    <h5 class="text-secondary">$250</h5>
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </div>
+
+          <div class="col-md-6 mt-4 mt-md-0">
+            <div
+              class="cart-box p-4"
+              style="box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);"
+            >
+              <h3 class="font-weight-light mb-4">
+                <span class="font-weight-normal text-primary">My</span> Cart
+              </h3>
+              <div class="form-group">
+                <!-- <input type="checkbox"> -->
+                <!-- <label for="">Select All</label> -->
+                <div class="table-responsive">
+                  <table class="table">
+                    <tr>
+                      <td style="width: 1%;">
+                        <input type="checkbox" checked="" />
+                      </td>
+                      <td style="width: 15%;">Thumbnail</td>
+                      <td style="width: 10%;">Name</td>
+                      <td>Price</td>
+                      <td style="width: 10%;">Quantity</td>
+                      <td>Options</td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <input type="checkbox" checked="" />
+                      </td>
+                      <td>
+                        <img
+                          src="bahan\product\wallself-400x400.jpg"
+                          class="d-inline-block w-100"
+                          alt=""
+                        />
+                      </td>
+                      <td>
+                        <h5 class="d-inline-block">Wall Self</h5>
+                      </td>
+                      <td>
+                        <h5 class="d-block text-primary">$450</h5>
+                      </td>
+                      <td>
+                        <input
+                          type="number"
+                          placeholder="1"
+                          value="1"
+                          class="form-control form-control-sm"
+                        />
+                      </td>
+                      <td>
+                        <a
+                          href="#!"
+                          class="btn btn-outline-primary btn-sm d-inline-block"
+                          >Buy</a
+                        >
+                        <a
+                          href="#!"
+                          class="btn btn-outline-primary btn-sm d-inline-block"
+                          >x</a
+                        >
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td>
+                        <input type="checkbox" checked="" />
+                      </td>
+                      <td>
+                        <img
+                          src="bahan\product\bookself-400x400.jpg"
+                          class="d-inline-block w-100"
+                          alt=""
+                        />
+                      </td>
+                      <td>
+                        <h5 class="d-inline-block">Book Self</h5>
+                      </td>
+                      <td>
+                        <h5 class="d-block text-primary">$450</h5>
+                      </td>
+                      <td>
+                        <input
+                          type="number"
+                          placeholder="1"
+                          value="1"
+                          class="form-control form-control-sm"
+                        />
+                      </td>
+                      <td>
+                        <a
+                          href="#!"
+                          class="btn btn-outline-primary btn-sm d-inline-block"
+                          >Buy</a
+                        >
+                        <a
+                          href="#!"
+                          class="btn btn-outline-primary btn-sm d-inline-block"
+                          >x</a
+                        >
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td>
+                        <input type="checkbox" checked="" />
+                      </td>
+                      <td>
+                        <img
+                          src="bahan\product\chair-2-400x400.jpg"
+                          class="d-inline-block w-100"
+                          alt=""
+                        />
+                      </td>
+                      <td>
+                        <h5 class="d-inline-block">Ordinary Chair</h5>
+                      </td>
+                      <td>
+                        <h5 class="d-block text-primary">$250</h5>
+                      </td>
+                      <td>
+                        <input
+                          type="number"
+                          placeholder="1"
+                          value="1"
+                          class="form-control form-control-sm"
+                        />
+                      </td>
+                      <td>
+                        <a
+                          href="#!"
+                          class="btn btn-outline-primary btn-sm d-inline-block"
+                          >Buy</a
+                        >
+                        <a
+                          href="#!"
+                          class="btn btn-outline-primary btn-sm d-inline-block"
+                          >x</a
+                        >
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-3 mt-4 mt-md-0">
+            <div
+              class="order-detail-box p-4"
+              style="box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);"
+            >
+              <h3 class="font-weight-light mb-4">
+                <span class="font-weight-normal text-primary">Order</span>
+                Details
+              </h3>
+              <div class="table-responsive">
+                <table class="table table-md">
+                  <tr>
+                    <td>
+                      Wall Self x 1
+                    </td>
+                    <td>
+                      <h5>$450</h5>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      Book Self x 1
+                    </td>
+                    <td>
+                      <h5>$450</h5>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      Ordinary Chair x 1
+                    </td>
+                    <td>
+                      <h5>$250</h5>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <h4 class="mt-0 mb-0 d-block">Total :</h4>
+                    </td>
+                    <td>
+                      <h5>$1250</h5>
+                    </td>
+                  </tr>
+                </table>
+              </div>
+              <a
+                href="invoice.html"
+                class="mt-0 btn btn-primary d-block mx-auto"
+                >Buy All</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <script src="src\js\jquery-3.3.1.min.js"></script>
+    <script src="src\js\bootstrap.bundle.min.js"></script>
+    <script src="src\js\bootstrap.min.js"></script>
+    <script src="src\js\main.js"></script>
+  </body>
+</html>
